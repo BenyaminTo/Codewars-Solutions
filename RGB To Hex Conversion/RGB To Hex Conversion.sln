@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB To Hex Conversion", "RGB To Hex Conversion.csproj", "{51581A2F-38DB-40D9-8DA6-1899C0019603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51581A2F-38DB-40D9-8DA6-1899C0019603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51581A2F-38DB-40D9-8DA6-1899C0019603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51581A2F-38DB-40D9-8DA6-1899C0019603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51581A2F-38DB-40D9-8DA6-1899C0019603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38A6D69-CE31-4965-B68A-6E9E61E64A8B}
+	EndGlobalSection
+EndGlobal

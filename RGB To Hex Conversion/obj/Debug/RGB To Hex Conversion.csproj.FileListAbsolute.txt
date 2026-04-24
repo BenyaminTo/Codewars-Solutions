@@ -1,0 +1,7 @@
+B:\Project\RGB To Hex Conversion\bin\Debug\RGB To Hex Conversion.exe.config
+B:\Project\RGB To Hex Conversion\bin\Debug\RGB To Hex Conversion.exe
+B:\Project\RGB To Hex Conversion\bin\Debug\RGB To Hex Conversion.pdb
+B:\Project\RGB To Hex Conversion\obj\Debug\RGB To Hex Conversion.csproj.AssemblyReference.cache
+B:\Project\RGB To Hex Conversion\obj\Debug\RGB To Hex Conversion.csproj.CoreCompileInputs.cache
+B:\Project\RGB To Hex Conversion\obj\Debug\RGB To Hex Conversion.exe
+B:\Project\RGB To Hex Conversion\obj\Debug\RGB To Hex Conversion.pdb

@@ -1,0 +1,7 @@
+B:\Project\Convert PascalCase string into snake_case\obj\Debug\Convert PascalCase string into snake_case.csproj.AssemblyReference.cache
+B:\Project\Convert PascalCase string into snake_case\obj\Debug\Convert PascalCase string into snake_case.csproj.CoreCompileInputs.cache
+B:\Project\Convert PascalCase string into snake_case\bin\Debug\Convert PascalCase string into snake_case.exe.config
+B:\Project\Convert PascalCase string into snake_case\bin\Debug\Convert PascalCase string into snake_case.exe
+B:\Project\Convert PascalCase string into snake_case\bin\Debug\Convert PascalCase string into snake_case.pdb
+B:\Project\Convert PascalCase string into snake_case\obj\Debug\Convert PascalCase string into snake_case.exe
+B:\Project\Convert PascalCase string into snake_case\obj\Debug\Convert PascalCase string into snake_case.pdb

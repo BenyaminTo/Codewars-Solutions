@@ -1,0 +1,15 @@
+D:\Project\Convert string to camel case\bin\Debug\net6.0\Convert string to camel case.exe
+D:\Project\Convert string to camel case\bin\Debug\net6.0\Convert string to camel case.deps.json
+D:\Project\Convert string to camel case\bin\Debug\net6.0\Convert string to camel case.runtimeconfig.json
+D:\Project\Convert string to camel case\bin\Debug\net6.0\Convert string to camel case.dll
+D:\Project\Convert string to camel case\bin\Debug\net6.0\Convert string to camel case.pdb
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.csproj.AssemblyReference.cache
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.AssemblyInfoInputs.cache
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.AssemblyInfo.cs
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.csproj.CoreCompileInputs.cache
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.dll
+D:\Project\Convert string to camel case\obj\Debug\net6.0\refint\Convert string to camel case.dll
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.pdb
+D:\Project\Convert string to camel case\obj\Debug\net6.0\Convert string to camel case.genruntimeconfig.cache
+D:\Project\Convert string to camel case\obj\Debug\net6.0\ref\Convert string to camel case.dll

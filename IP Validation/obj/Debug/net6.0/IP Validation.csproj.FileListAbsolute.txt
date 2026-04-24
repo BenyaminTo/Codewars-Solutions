@@ -1,0 +1,15 @@
+B:\Project\IP Validation\bin\Debug\net6.0\IP Validation.exe
+B:\Project\IP Validation\bin\Debug\net6.0\IP Validation.deps.json
+B:\Project\IP Validation\bin\Debug\net6.0\IP Validation.runtimeconfig.json
+B:\Project\IP Validation\bin\Debug\net6.0\IP Validation.dll
+B:\Project\IP Validation\bin\Debug\net6.0\IP Validation.pdb
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.csproj.AssemblyReference.cache
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.GeneratedMSBuildEditorConfig.editorconfig
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.AssemblyInfoInputs.cache
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.AssemblyInfo.cs
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.csproj.CoreCompileInputs.cache
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.dll
+B:\Project\IP Validation\obj\Debug\net6.0\refint\IP Validation.dll
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.pdb
+B:\Project\IP Validation\obj\Debug\net6.0\IP Validation.genruntimeconfig.cache
+B:\Project\IP Validation\obj\Debug\net6.0\ref\IP Validation.dll

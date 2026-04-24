@@ -1,0 +1,16 @@
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\kata__binary_addition.exe
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\kata__binary_addition.deps.json
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\kata__binary_addition.runtimeconfig.json
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\kata__binary_addition.runtimeconfig.dev.json
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\kata__binary_addition.dll
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\ref\kata__binary_addition.dll
+D:\Project\kata__binary_addition\kata__binary_addition\bin\Debug\net5.0\kata__binary_addition.pdb
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.csproj.AssemblyReference.cache
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.AssemblyInfoInputs.cache
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.AssemblyInfo.cs
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.csproj.CoreCompileInputs.cache
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.dll
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\ref\kata__binary_addition.dll
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.pdb
+D:\Project\kata__binary_addition\kata__binary_addition\obj\Debug\net5.0\kata__binary_addition.genruntimeconfig.cache

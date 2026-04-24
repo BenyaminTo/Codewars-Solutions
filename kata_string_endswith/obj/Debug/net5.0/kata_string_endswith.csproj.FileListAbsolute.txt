@@ -1,0 +1,16 @@
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\kata_string_endswith.exe
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\kata_string_endswith.deps.json
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\kata_string_endswith.runtimeconfig.json
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\kata_string_endswith.runtimeconfig.dev.json
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\kata_string_endswith.dll
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\ref\kata_string_endswith.dll
+D:\Project\kata_string_endswith\kata_string_endswith\bin\Debug\net5.0\kata_string_endswith.pdb
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.csproj.AssemblyReference.cache
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.AssemblyInfoInputs.cache
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.AssemblyInfo.cs
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.csproj.CoreCompileInputs.cache
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.dll
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\ref\kata_string_endswith.dll
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.pdb
+D:\Project\kata_string_endswith\kata_string_endswith\obj\Debug\net5.0\kata_string_endswith.genruntimeconfig.cache

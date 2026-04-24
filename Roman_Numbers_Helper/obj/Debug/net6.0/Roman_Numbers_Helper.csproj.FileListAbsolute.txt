@@ -1,0 +1,14 @@
+B:\Project\Roman_Numbers_Helper\bin\Debug\net6.0\Roman_Numbers_Helper.exe
+B:\Project\Roman_Numbers_Helper\bin\Debug\net6.0\Roman_Numbers_Helper.deps.json
+B:\Project\Roman_Numbers_Helper\bin\Debug\net6.0\Roman_Numbers_Helper.runtimeconfig.json
+B:\Project\Roman_Numbers_Helper\bin\Debug\net6.0\Roman_Numbers_Helper.dll
+B:\Project\Roman_Numbers_Helper\bin\Debug\net6.0\Roman_Numbers_Helper.pdb
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.GeneratedMSBuildEditorConfig.editorconfig
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.AssemblyInfoInputs.cache
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.AssemblyInfo.cs
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.csproj.CoreCompileInputs.cache
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.dll
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\refint\Roman_Numbers_Helper.dll
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.pdb
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\Roman_Numbers_Helper.genruntimeconfig.cache
+B:\Project\Roman_Numbers_Helper\obj\Debug\net6.0\ref\Roman_Numbers_Helper.dll

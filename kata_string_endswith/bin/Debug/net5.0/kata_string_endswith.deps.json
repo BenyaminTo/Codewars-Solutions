@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "kata_string_endswith/1.0.0": {
+        "runtime": {
+          "kata_string_endswith.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kata_string_endswith/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

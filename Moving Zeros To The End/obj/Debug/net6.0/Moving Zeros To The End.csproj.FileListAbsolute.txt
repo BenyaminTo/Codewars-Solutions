@@ -1,0 +1,15 @@
+D:\Project\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.exe
+D:\Project\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.deps.json
+D:\Project\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.runtimeconfig.json
+D:\Project\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.dll
+D:\Project\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.pdb
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.csproj.AssemblyReference.cache
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.AssemblyInfoInputs.cache
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.AssemblyInfo.cs
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.csproj.CoreCompileInputs.cache
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.dll
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\refint\Moving Zeros To The End.dll
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.pdb
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.genruntimeconfig.cache
+D:\Project\Moving Zeros To The End\obj\Debug\net6.0\ref\Moving Zeros To The End.dll

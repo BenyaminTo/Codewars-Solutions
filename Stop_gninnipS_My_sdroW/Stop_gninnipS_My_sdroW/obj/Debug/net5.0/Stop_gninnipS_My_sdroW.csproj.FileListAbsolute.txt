@@ -1,0 +1,16 @@
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\Stop_gninnipS_My_sdroW.exe
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\Stop_gninnipS_My_sdroW.deps.json
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\Stop_gninnipS_My_sdroW.runtimeconfig.json
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\Stop_gninnipS_My_sdroW.runtimeconfig.dev.json
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\Stop_gninnipS_My_sdroW.dll
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\ref\Stop_gninnipS_My_sdroW.dll
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\bin\Debug\net5.0\Stop_gninnipS_My_sdroW.pdb
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.csproj.AssemblyReference.cache
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.AssemblyInfoInputs.cache
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.AssemblyInfo.cs
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.csproj.CoreCompileInputs.cache
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.dll
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\ref\Stop_gninnipS_My_sdroW.dll
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.pdb
+D:\Project\Stop_gninnipS_My_sdroW\Stop_gninnipS_My_sdroW\obj\Debug\net5.0\Stop_gninnipS_My_sdroW.genruntimeconfig.cache

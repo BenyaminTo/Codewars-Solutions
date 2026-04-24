@@ -1,0 +1,16 @@
+D:\Project\CodeWares\bin\Debug\net5.0\CodeWares.exe
+D:\Project\CodeWares\bin\Debug\net5.0\CodeWares.deps.json
+D:\Project\CodeWares\bin\Debug\net5.0\CodeWares.runtimeconfig.json
+D:\Project\CodeWares\bin\Debug\net5.0\CodeWares.runtimeconfig.dev.json
+D:\Project\CodeWares\bin\Debug\net5.0\CodeWares.dll
+D:\Project\CodeWares\bin\Debug\net5.0\ref\CodeWares.dll
+D:\Project\CodeWares\bin\Debug\net5.0\CodeWares.pdb
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.csproj.AssemblyReference.cache
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.AssemblyInfoInputs.cache
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.AssemblyInfo.cs
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.csproj.CoreCompileInputs.cache
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.dll
+D:\Project\CodeWares\obj\Debug\net5.0\ref\CodeWares.dll
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.pdb
+D:\Project\CodeWares\obj\Debug\net5.0\CodeWares.genruntimeconfig.cache

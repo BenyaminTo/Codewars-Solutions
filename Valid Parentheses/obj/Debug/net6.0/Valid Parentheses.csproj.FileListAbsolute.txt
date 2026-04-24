@@ -1,0 +1,15 @@
+B:\Project\Valid Parentheses\bin\Debug\net6.0\Valid Parentheses.exe
+B:\Project\Valid Parentheses\bin\Debug\net6.0\Valid Parentheses.deps.json
+B:\Project\Valid Parentheses\bin\Debug\net6.0\Valid Parentheses.runtimeconfig.json
+B:\Project\Valid Parentheses\bin\Debug\net6.0\Valid Parentheses.dll
+B:\Project\Valid Parentheses\bin\Debug\net6.0\Valid Parentheses.pdb
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.csproj.AssemblyReference.cache
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.AssemblyInfoInputs.cache
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.AssemblyInfo.cs
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.csproj.CoreCompileInputs.cache
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.dll
+B:\Project\Valid Parentheses\obj\Debug\net6.0\refint\Valid Parentheses.dll
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.pdb
+B:\Project\Valid Parentheses\obj\Debug\net6.0\Valid Parentheses.genruntimeconfig.cache
+B:\Project\Valid Parentheses\obj\Debug\net6.0\ref\Valid Parentheses.dll
